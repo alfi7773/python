@@ -6,3 +6,7 @@ def word_dict(text):
     return freq
 
 print(word_dict("Hello world hello")) 
+
+
+
+
